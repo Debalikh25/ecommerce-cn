@@ -1,0 +1,21 @@
+{
+    "products" : [
+        {
+            "id" : "1",
+            "name" : "Zebronics Keyboard",
+             "description" : "A beautiful RGB gaming Keyboard",
+             "price" : "1350",
+             "image" : "no-content",
+             "rating" : "5"
+        },
+
+        {
+            "id" : "2",
+            "name" : "Hp Mouse",
+             "description" : "A beautiful RGB Mouse",
+             "price" : "660",
+             "image" : "no-content",
+             "rating" : "4"
+        }
+    ]
+}
